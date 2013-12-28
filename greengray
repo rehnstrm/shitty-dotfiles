@@ -1,0 +1,34 @@
+URxvt*background: #0A0D0A
+URxvt*foreground: #668566
+
+URxvt*color0: #343639
+URxvt*color8: #424242
+
+!ncmpcpp (playlist)
+URxvt*color1: #4D704D
+URxvt*color9: #D75F5F
+
+!ncmpcpp songtime everything else
+URxvt*color2: #9E9E7E
+
+!ncmpcpp songtime nowplaying
+URxvt*color10: #BBBBA5
+
+!ncmpcpp songname nowplaying
+URxvt*color11: #668566
+
+!ncmpcpp songname everything else
+URxvt*color3: #475D47
+
+
+URxvt*color4: #5A667F
+URxvt*color12: #778BAF
+
+URxvt*color5: #94738C
+URxvt*color13: #D8ADCE
+
+URxvt*color6:    #5f8787
+URxvt*color14:   #69b2b2
+
+URxvt*color7:    #909090
+URxvt*color15:   #d7d7d7
