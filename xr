@@ -1,4 +1,0 @@
-#include "/home/cx4/.colors/greengray"
-
-URxvt*cursorBlink:                true
-URxvt*scrollBar:                false
